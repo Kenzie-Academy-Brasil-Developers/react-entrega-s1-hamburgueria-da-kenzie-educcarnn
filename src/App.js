@@ -2,7 +2,7 @@ import "./App.css";
 import { useState, useEffect } from "react";
 import Header from "./components/Header";
 import ProductList from "./components/ProductsList";
-import "../../react-entrega-s1-hamburgueria-da-kenzie-educcarnn/src/components/FiltersItems/style.css"
+import "../src/components/FiltersItems/style.css"
 import Cart from "./components/Cart";
 import FilterItems from "./components/FiltersItems";
 
